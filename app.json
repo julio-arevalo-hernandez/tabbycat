@@ -52,6 +52,6 @@
     { "url": "heroku/nodejs" },
     { "url": "heroku/python" }
   ],
-  "stack": "heroku-22",
+  "stack": "heroku-24",
   "success_url": "/start/"
 }
